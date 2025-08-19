@@ -51,4 +51,6 @@ This guide is given only for educational and informational objectives. This cont
 
 
 
-Update:  13 August
+
+
+Update:  Tuesday 19 August 2025 url is now operational
