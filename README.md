@@ -61,4 +61,6 @@ This guide is given only for educational and informational objectives. This cont
 
 
 
-Update:  18.09.2025 url is active
+
+
+Update:  01.10.2025 Link is now responsive and functioning
